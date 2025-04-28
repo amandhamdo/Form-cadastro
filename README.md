@@ -9,7 +9,7 @@ Este projeto é uma página de formulário de cadastro criada para praticar HTML
 - HTML5
 - CSS3
 
-- Como visualizar o projeto
+> Como visualizar o projeto <
 1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/amandhamdo/Form-cadastro.git
