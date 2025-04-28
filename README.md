@@ -5,7 +5,7 @@ Este projeto é uma página de formulário de cadastro criada para praticar HTML
 - Layout responsivo simples.
 - Estruturação semântica usando HTML5.
 
-- 🚀 Tecnologias utilizadas
+🚀 Tecnologias utilizadas
 - HTML5
 - CSS3
 
