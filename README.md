@@ -14,7 +14,9 @@ Este projeto é uma página de formulário de cadastro criada para praticar HTML
    ```bash
    git clone https://github.com/amandhamdo/Form-cadastro.git
 
+📸 Imagem do Projeto
 
+![Formulário de Cadastro](./imagens/cadas.png)
 
 📚 Aprendizados
 Estrutura básica de formulários em HTML.
